@@ -6,3 +6,7 @@
   The tree maintains balance automatically after updates, ensuring optimal performance. Includes additional utility methods such as height calculation,
   bounds queries, and BFS/DFS printing.
 ***
+  ### 2. Linked List:
+  A lightweight C++ implementation of a singly linked list supporting common operations like adding, removing, and accessing elements. The class includes
+  utilities for inserting at specific indices, clearing the list, and supports operator overloading for convenient usage.
+***
