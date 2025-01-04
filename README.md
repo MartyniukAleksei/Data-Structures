@@ -2,7 +2,8 @@
 ## It's a project with implementations of basic data structures in C++
 ### Data structures in the project:
   ### 1. Binary Search Tree:
-      - addElem
+      An implementation of a dynamically balanced binary search tree with support for common operations like insertion, deletion, search, and traversal. The          tree maintains balance automatically after updates, ensuring optimal performance. Includes additional utility methods such as height calculation, bounds        queries, and BFS/DFS printing.
+      <!-- - addElem
       - removeElem
       - findElem
       - findMin
@@ -15,4 +16,4 @@
       - isBalanced
       - isEmpty
       - upperBound
-      - lowerBound
+      - lowerBound -->
